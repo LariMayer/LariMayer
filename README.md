@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 😎
 
-<!--
-**LariMayer/LariMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Larissa Mayer**, a dev passionate about technology!  
 
-Here are some ideas to get you started:
+This is the space where I spend most of my time — where imagination and creativity become code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything [**here**]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/larissa-mayer-a96a86211/)  
+📫 How to reach me: [**@lrsmyer**](https://www.instagram.com/lrsmyer)
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<br clear="left"/>
+
+---
+
+✨ *“Made with calm and coffee”*
