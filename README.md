@@ -1,4 +1,5 @@
-#<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/44afc086-ba4d-4b1c-885a-a54924c57137" />
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/b010ba97-328c-4073-9861-8792fc3be5df" />
+
 <div align="center">
 
 Oi! tudo bem?
