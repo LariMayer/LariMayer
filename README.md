@@ -19,4 +19,4 @@ This is the space where I spend most of my time — where imagination and creati
 
 ---
 
-✨ *“Made with calm and coffee”*
+✨ *“Made with coffee”*
