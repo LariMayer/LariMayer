@@ -1,22 +1,44 @@
-### Hi there 😎
+#<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/44afc086-ba4d-4b1c-885a-a54924c57137" />
+<div align="center">
 
-Hi, I'm **Larissa Mayer**, a dev passionate about technology!  
+Oi! tudo bem?
 
-This is the space where I spend most of my time — where imagination and creativity become code.  
+Meu nome é **Larissa Mayer**, sou uma dev apaixonada por tecnologia, criatividade e tudo o que envolve transformar ideias em código.  
+Aqui é o meu lugar onde estudo, crio, erro, aprendo e evoluo.
 
-💬 Ask me about anything [**here**]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/larissa-mayer-a96a86211/)  
-📫 How to reach me: [**@lrsmyer**](https://www.instagram.com/lrsmyer)
+</div>
 
 ---
 
-### 🧰 Languages and Tools
+Onde me encontrar?
 
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+📫 Meu LinkedIn: [**larissa-mayer**](https://www.linkedin.com/in/larissa-mayer-a96a86211/)  
+📸 Instagram: [**@lrsmyer**](https://www.instagram.com/lrsmyer)
+
+---
+
+Linguagens e Ferramentas
+
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <br clear="left"/>
 
 ---
 
-✨ *“Made with coffee”*
+Sobre mim:
+
+- 👩‍💻 Estudo desenvolvimento fullstack  
+- 🧪 Adoro criar projetinhos para testar e aprender coisas novas  
+- 🎨 Amo trazer estética, criatividade e personalidade para meus códigos  
+- 🚀 Cada repositório aqui é um pedaço da minha evolução como dev  
+
+---
+
+<div align="center">
+
+✨ *“Carregada por vontade de aprender e alguns bugs pelo caminho.”*
+
+</div>
+
